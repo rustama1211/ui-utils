@@ -9,7 +9,7 @@
     "angular-ui-scroll": "latest",
     "angular-ui-scrollpoint": "latest",
     "angular-ui-event": "latest",
-    "angular-ui-mask": "latest",
+    "angular-ui-mask": "https://github.com/rustama1211/ui-mask/archive/master.zip",
     "angular-ui-validate": "latest",
     "angular-ui-indeterminate": "latest",
     "angular-ui-uploader": "latest"
